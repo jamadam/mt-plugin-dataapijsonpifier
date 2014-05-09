@@ -5,7 +5,7 @@ use MT;
 
 MT->add_plugin({
     id          => 'DataAPIJSONPifier',
-    name        => 'DataAPIJSONPifier',
+    name        => 'Data API JSONPifier',
     version     => 0.01,
     description => 'Make Data API capable of JSONP request',
     author_name => 'jamadam',
